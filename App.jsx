@@ -445,4 +445,3 @@ if (typeof window !== "undefined") {
     console.error("[ActivityHomePage tests] error", err);
   }
 }
-
